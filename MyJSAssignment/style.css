@@ -1,0 +1,115 @@
+button {
+    font-size: 15px;
+    background-color: white;
+    text-emphasis-color: black;
+    width: 90px;
+    height: 35px;
+    margin: 3px;
+    margin-bottom: 8px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.round-btn{
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    margin-right: 110px;
+    font-size: 35px;
+    border-color: rgb(201, 201, 201);
+    border-width: 5px;
+    border-style: solid;
+}
+#enhance-btn{
+    height: 65px;
+    width: 65px;
+    color: #ffffff;
+    background-color: orangered;
+    border-style: none;
+}
+#enhance2-btn{
+    height: 50px;
+    width: 50px;
+    color: #ffffff;
+    background-color: orangered;
+    border-style: none;
+}
+input{
+    font-size: 15px;
+    height: 25px;
+    width: 500px;
+    margin-top: 10px;
+}
+select{
+    font-size: 15px;
+    height: 30px;
+    width: 500px;
+    margin-top: 10px;
+}
+.select{
+    width: 500px;
+    height: 80px;
+}
+body{
+    background-color: #ffffff;
+}
+.page{
+    width: 1000px;
+    background-color: rgb(238, 238, 238);
+    padding: 3px;
+    padding-top: 30px;
+    margin-left: 10%;
+}   
+form{
+    background-color: rgb(222, 235, 247);
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 875px;
+}
+header{
+    margin-bottom: -30px;
+    margin-left: 25px;
+}
+#cont-btn{
+    border-radius: 5px;
+    margin: 10px;
+    color: orangered;
+    border-color: orangered;
+    margin-left: 0px;
+}
+#back-btn{
+    border-radius: 5px;
+    margin: 10px;
+    color: blue;
+    border-color: blue;
+    margin-left: 330px;
+    width: 70px;
+    text-decoration-color: blue;
+}
+#signup-btn {
+    color: white;
+    background-color: orangered;
+    height: 38px;
+    width: 93px;
+}
+a{
+    color: orangered;
+}
+
+#loc{
+    margin-bottom: 0px;
+}
+#min{
+    margin-top: 0px;
+    font-size: 12px;
+}
+#orange{
+    font-size: 15px;
+    color: orangered;
+}
+#file{
+    background-color: rgb(238, 238, 238);;
+}
+#check{
+    margin: -235px;
+}
